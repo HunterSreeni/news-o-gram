@@ -153,7 +153,7 @@ All layouts use a max-width container (2xl: 672px) for optimal readability.
 
 ## License
 
-ISC
+MIT
 
 ## Version Control
 
