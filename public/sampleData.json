@@ -1,0 +1,124 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "headline": "Indian AI Startup Raises $100M in Series B Funding",
+      "description": "Bengaluru-based AI company secures major funding from global investors to expand its machine learning platform across Southeast Asia.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop",
+      "source": "TechCrunch India",
+      "timestamp": "2024-12-08T10:30:00Z",
+      "category": "AI",
+      "tags": ["Artificial Intelligence", "Funding", "Startups"],
+      "articleUrl": "https://example.com/ai-startup-funding",
+      "region": "India"
+    },
+    {
+      "id": "2",
+      "headline": "Apple to Launch Manufacturing Unit in Tamil Nadu",
+      "description": "Tech giant Apple announces plans to establish a new iPhone manufacturing facility in Chennai, creating 50,000 jobs.",
+      "imageUrl": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&auto=format&fit=crop",
+      "source": "Economic Times",
+      "timestamp": "2024-12-08T09:15:00Z",
+      "category": "Mobile",
+      "tags": ["Apple", "Manufacturing", "Jobs"],
+      "articleUrl": "https://example.com/apple-manufacturing",
+      "region": "India"
+    },
+    {
+      "id": "3",
+      "headline": "India's Tech Exports Hit Record $200 Billion Mark",
+      "description": "Indian IT industry achieves historic milestone with software and services exports reaching $200 billion, driven by cloud computing and digital transformation.",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop",
+      "source": "Business Standard",
+      "timestamp": "2024-12-08T08:45:00Z",
+      "category": "Tech",
+      "tags": ["Economy", "Exports", "IT Industry"],
+      "articleUrl": "https://example.com/tech-exports",
+      "region": "India"
+    },
+    {
+      "id": "4",
+      "headline": "AIIMS Develops Revolutionary Cancer Treatment Protocol",
+      "description": "All India Institute of Medical Sciences announces breakthrough in immunotherapy treatment, showing 80% success rate in early trials.",
+      "imageUrl": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800&auto=format&fit=crop",
+      "source": "Hindustan Times",
+      "timestamp": "2024-12-08T07:20:00Z",
+      "category": "Medicine",
+      "tags": ["Healthcare", "Research", "Cancer"],
+      "articleUrl": "https://example.com/cancer-treatment",
+      "region": "India"
+    },
+    {
+      "id": "5",
+      "headline": "Indian Semiconductor Firm Partners with TSMC",
+      "description": "Tata Electronics signs strategic partnership with Taiwan Semiconductor to build advanced chip fabrication plant in Gujarat.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&auto=format&fit=crop",
+      "source": "LiveMint",
+      "timestamp": "2024-12-08T11:00:00Z",
+      "category": "Chip Industry",
+      "tags": ["Semiconductors", "Manufacturing", "Partnership"],
+      "articleUrl": "https://example.com/semiconductor-partnership",
+      "region": "India"
+    },
+    {
+      "id": "6",
+      "headline": "India Launches 5G Satellite Internet Service",
+      "description": "ISRO and Reliance Jio collaborate to launch satellite-based 5G internet service, targeting rural and remote areas across the country.",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop",
+      "source": "The Hindu",
+      "timestamp": "2024-12-08T06:30:00Z",
+      "category": "Internet",
+      "tags": ["5G", "Satellite", "Connectivity"],
+      "articleUrl": "https://example.com/satellite-internet",
+      "region": "India"
+    },
+    {
+      "id": "7",
+      "headline": "Major Cybersecurity Breach Averted by Indian CERT",
+      "description": "Indian Computer Emergency Response Team successfully thwarts sophisticated ransomware attack targeting banking infrastructure.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&auto=format&fit=crop",
+      "source": "Indian Express",
+      "timestamp": "2024-12-08T05:15:00Z",
+      "category": "Security",
+      "tags": ["Cybersecurity", "Banking", "CERT"],
+      "articleUrl": "https://example.com/cybersecurity-breach",
+      "region": "India"
+    },
+    {
+      "id": "8",
+      "headline": "Indian Gaming Industry Crosses $3 Billion Revenue",
+      "description": "Mobile gaming dominates as India's gaming sector sees 40% YoY growth, becoming world's fastest-growing gaming market.",
+      "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&auto=format&fit=crop",
+      "source": "YourStory",
+      "timestamp": "2024-12-08T04:45:00Z",
+      "category": "Gaming",
+      "tags": ["Gaming", "Mobile Games", "Entertainment"],
+      "articleUrl": "https://example.com/gaming-revenue",
+      "region": "India"
+    },
+    {
+      "id": "9",
+      "headline": "NVIDIA Opens AI Research Center in Pune",
+      "description": "GPU giant NVIDIA inaugurates state-of-the-art AI research facility in Pune, focusing on autonomous vehicles and deep learning.",
+      "imageUrl": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&auto=format&fit=crop",
+      "source": "Times of India",
+      "timestamp": "2024-12-08T12:00:00Z",
+      "category": "GPU",
+      "tags": ["NVIDIA", "AI Research", "Deep Learning"],
+      "articleUrl": "https://example.com/nvidia-research-center",
+      "region": "India"
+    },
+    {
+      "id": "10",
+      "headline": "Google Expands Cloud Region in Mumbai",
+      "description": "Google Cloud announces expansion of its Mumbai region with three new availability zones, doubling capacity for enterprise customers.",
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=800&auto=format&fit=crop",
+      "source": "Deccan Herald",
+      "timestamp": "2024-12-08T03:30:00Z",
+      "category": "Google",
+      "tags": ["Google Cloud", "Infrastructure", "Enterprise"],
+      "articleUrl": "https://example.com/google-cloud-expansion",
+      "region": "India"
+    }
+  ]
+}
