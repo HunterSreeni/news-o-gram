@@ -137,17 +137,6 @@ Each news item includes:
 
 All layouts use a max-width container (2xl: 672px) for optimal readability.
 
-## Phase 2 Features
-
-See [PHASE2.md](./PHASE2.md) for the complete roadmap, including:
-- Swipe navigation for topic switching
-- Dynamic location detection
-- Enhanced social sharing
-- Expanded news categories
-- Search functionality
-- PWA conversion
-- And much more!
-
 ## Browser Support
 
 - Chrome/Edge (latest)
@@ -162,13 +151,13 @@ See [PHASE2.md](./PHASE2.md) for the complete roadmap, including:
 - Optimized bundle size with Vite
 - Tailwind CSS purging unused styles
 
-## Contributing
-
-This is a Phase 1 MVP. Contributions are welcome for Phase 2 features!
-
 ## License
 
 ISC
+
+## Version Control
+
+Current version: 0.1.1
 
 ## Contact
 
